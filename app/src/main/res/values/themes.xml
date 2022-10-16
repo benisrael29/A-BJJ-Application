@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.MyBJJApplication" parent="@style/Theme.Leanback" />
+</resources>
