@@ -2,12 +2,11 @@ package com.example.mybjjapplication;
 
 
 import java.time.Clock;
-import java.util.Timer;
 
 /**
  * Timer Activity represents a timer which records time and round information.
  */
-public class TimerActivity {
+public class m_TimerActivity {
     public Clock timer;
 
 
