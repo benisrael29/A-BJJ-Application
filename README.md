@@ -5,3 +5,7 @@
 2. Connect to this repository. 
 3. Install a fire TV emulator
 4. Build
+
+
+## Resources
+https://developer.android.com/guide
