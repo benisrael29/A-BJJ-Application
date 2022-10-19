@@ -51,4 +51,8 @@ public class m_TimerActivity {
         return  roundsCompleted;
     }
 
+    public void completeSet(){
+        //TODO push to the data layer.
+    }
+
 }

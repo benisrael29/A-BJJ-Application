@@ -10,9 +10,13 @@
 ## Resources
  - https://developer.android.com/guide
 
-## Documentation 
+# Documentation 
+Documentation from android studio guides mostly. 
 
 ## Architecture 
 - Keep in mind that mobile devices are also resource-constrained, so at any time, the operating system might kill some app processes to make room for new ones.
 - Because these events aren't under your control, you shouldn't store or keep in memory any application data or state in your app components, and your app components shouldn't depend on each other.
-- Going with a UI Layer and a Data layer will help decoupling. 
+- A UI Layer and a Data layer will help decoupling. 
+  - The data layer exposes application data to the rest of the app and contains the vast majority of business logic of your app.
+  - The UI layer displays the application data on the screen and serves as the primary point of user interaction.
+  - Components in the UI layer such as composables, activities, or ViewModels shouldn't interact directly with a data source.
