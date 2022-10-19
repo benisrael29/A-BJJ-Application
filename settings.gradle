@@ -5,6 +5,10 @@ pluginManagement {
         mavenCentral()
     }
 }
+/**
+ * Fragments require a dependency on the AndroidX Fragment library. You need to add the Google Maven
+ * repository to your project's settings.gradle file in order to include this dependency.
+ */
 dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
     repositories {

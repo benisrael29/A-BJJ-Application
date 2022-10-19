@@ -80,6 +80,10 @@ public class MainFragment extends BrowseSupportFragment {
         }
     }
 
+    public void test(){
+        System.console().printf("Fuckk");
+    }
+
     private void loadRows() {
         List<Movie> list = MovieList.setupMovies();
 
