@@ -23,6 +23,6 @@ Documentation from android studio guides mostly.
 
 # Design
 
- ![image](https://user-images.githubusercontent.com/62453991/197089671-655d19bc-a6c4-4edb-ab8a-770927b6b46f.png)
+![image](https://user-images.githubusercontent.com/62453991/197089831-f3b4109b-a6dd-4d8a-bb9d-6ee7bdf27769.png)
 
 ![image](https://user-images.githubusercontent.com/62453991/197089708-42c92e18-d9ec-4a9b-b4e9-6e83683bf9f7.png)
