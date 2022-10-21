@@ -20,3 +20,9 @@ Documentation from android studio guides mostly.
   - The data layer exposes application data to the rest of the app and contains the vast majority of business logic of your app.
   - The UI layer displays the application data on the screen and serves as the primary point of user interaction.
   - Components in the UI layer such as composables, activities, or ViewModels shouldn't interact directly with a data source.
+
+# Design
+
+ ![image](https://user-images.githubusercontent.com/62453991/197089671-655d19bc-a6c4-4edb-ab8a-770927b6b46f.png)
+
+![image](https://user-images.githubusercontent.com/62453991/197089708-42c92e18-d9ec-4a9b-b4e9-6e83683bf9f7.png)
